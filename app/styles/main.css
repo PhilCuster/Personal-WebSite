@@ -81,3 +81,11 @@ body {
     border-bottom: 0;
   }
 }
+
+img {
+  width: 100%;
+}
+
+.mar-bot-20 {
+  margin-bottom: 20px;
+}
